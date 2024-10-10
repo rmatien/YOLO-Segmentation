@@ -1,0 +1,4 @@
+train: /Documents/PythonProjects/CobaYOLO/PlatNomorDataset/train/images
+val: /Documents/PythonProjects/CobaYOLO/PlatNomorDataset/val/images
+nc: 1
+names: ["platnomor"]
